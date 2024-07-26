@@ -1,5 +1,4 @@
 
-GPA KEY
 
 <!---
 Oppenheimer404/Oppenheimer404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
